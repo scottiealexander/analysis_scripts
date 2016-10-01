@@ -2,7 +2,7 @@ function b = svg2png(ifile,varargin)
 
 % svg2png
 %
-% Description: convert a svg file to a png using InkScape
+% Description: convert a svg file to a png using InkScape, obviously requires Inkscape
 %
 % Syntax: svg2png(ifile,<options>)
 %
